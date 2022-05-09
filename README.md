@@ -1,4 +1,12 @@
-### Seja bem-vindo(a) ao meu GitHub👋
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+
+</head>
+
+<h1>Seja bem-vindo(a) ao meu GitHub👋</h1>
 
 - 🔭 Sou estudante da Trybe no curso de Desenvolvedor FullStack!
 - 👨‍🏫 Faço faculdade de Análise de Sistemas (50%)
@@ -18,3 +26,4 @@
         vertical-align: baseline;
     }
 </style>
+</html>
