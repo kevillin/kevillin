@@ -1,7 +1,8 @@
 ### Seja bem-vindo(a) ao meu GitHub👋
 
 - 🔭 Sou estudante da Trybe no curso de Desenvolvedor FullStack!
-- Atualmente aprendendo os Fundamentos de Desenvolvimento WEB (CSS, JS e HTML)
+- 👨‍🏫 Faço faculdade de Análise de Sistemas (50%)
+- 👩‍💻 Atualmente aprendendo os Fundamentos de Desenvolvimento WEB (CSS, JS e HTML)
 - 🌱 Sempre fazendo novas descobertas.
 - 📫 Hotmail: kevillin_santos@hotmail.com
 
