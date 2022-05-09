@@ -3,6 +3,12 @@
 
 <head>
     <meta charset="UTF-8">
+        <style>
+            .logos {
+            display: inline-block;
+            vertical-align: baseline;
+         }
+        </style>
 
 </head>
 
@@ -20,10 +26,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50px" width="50px"/>
 </div>
 
-<style>
-    .logos {
-        display: inline-block;
-        vertical-align: baseline;
-    }
-</style>
 </html>
