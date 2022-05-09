@@ -1,17 +1,3 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-
-<head>
-    <meta charset="UTF-8">
-        <style>
-            .logos {
-            display: inline-block;
-            vertical-align: baseline;
-         }
-        </style>
-
-</head>
-
 <h1>Seja bem-vindo(a) ao meu GitHub👋</h1>
 
 - 🔭 Sou estudante da Trybe no curso de Desenvolvedor FullStack!
@@ -25,5 +11,3 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="50px" width="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50px" width="50px"/>
 </div>
-
-</html>
