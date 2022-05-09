@@ -6,14 +6,8 @@
 - 🌱 Sempre fazendo novas descobertas.
 - 📫 Hotmail: kevillin_santos@hotmail.com
 
-<div class="logos">
+<div class="logos" text-align=center>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="50px" width="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="50px" width="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50px" width="50px"/>
 </div>
-
-<style type="text/css">
-    .logos div-esquerda {
-        width: 40%;
-        float: left;
-    }
