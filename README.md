@@ -2,7 +2,8 @@
 
 - 🔭 Sou estudante da **Trybe** no curso de Desenvolvedor FullStack!
 - 👨‍🏫 Faço faculdade de Análise de Sistemas (75%)
-- 👩‍💻 Atualmente aprendendo os Fundamentos de Desenvolvimento WEB (CSS, JS e HTML)
+- 👩‍💻 Desenvolvedor WEB Front-End e estudante de Back-End.
+- 🔭 JS, React, Redux, Jest (Unit Tests), RTL, CSS, Bootstrap, TDD, Context API
 - 🌱 Sempre fazendo novas descobertas.
 - 📫 Hotmail: kevillin_santos@hotmail.com
 
