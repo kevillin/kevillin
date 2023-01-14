@@ -1,4 +1,4 @@
-<h1>GitHub pessoal do Kevillin</h1>
+<h1>GitHub - Kevillin Santos</h1>
 
 - 🔭 Sou estudante da **Trybe** no curso de Desenvolvedor FullStack e Analista de Sistemas em formação pela UNOPAR (75%)
 - 🔭 Frontend: JS, React, Redux, Jest (Unit Tests), RTL, CSS, Bootstrap, TDD, Context API
