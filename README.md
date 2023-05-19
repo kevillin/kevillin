@@ -1,11 +1,11 @@
 <h1>Kevillin Santos, Desenvolvedor Web Jr.</h1>
 
-Sou brasiliense. Dediquei meus últimos anos a estudar a área de tecnologia e desenvolvimento web no último semestre em Tec. Análise e Desenvolvimento de Sistemas pela UNOPAR. Concuí o curso de desenvolvimento web fullstack da Trybe.
-Nos últimos meses, aprendi a utilizar linguagens como React.JS, CSS, HTML, Vanilla Javascript, testes com JEST e RTL. Além disso, aprendi a fazer requisições HTTP utilizando o ThunderClient e a arquitetura MSC, conexões com banco de dados relacional (mySQL), Node.JS no backend e JWT para geração de tokens ao requisitar algum protocolo HTTP com sucesso.
-Ainda estou no início da minha jornada. Estou à procura do primeiro emprego como desenvolvedor Jr. Já fiz alguns projetos com pessoas maravilhosas, aonde pude colocar em prática metodologias ágeis como Scrum, resolução de problemas, escuta ativa e comunicação.
+Sou brasiliense. Dediquei meus últimos anos a estudar a área de tecnologia e desenvolvimento web no último semestre em Tec. Análise e Desenvolvimento de Sistemas pela UNOPAR. Concuí o curso de desenvolvimento web fullstack da Trybe.<br>
+Nos últimos meses, aprendi a utilizar linguagens como React.JS, CSS, HTML, Vanilla Javascript, testes com JEST e RTL. Além disso, aprendi a fazer requisições HTTP utilizando o ThunderClient e a arquitetura MSC, conexões com banco de dados relacional (mySQL), Node.JS no backend e JWT para geração de tokens ao requisitar algum protocolo HTTP com sucesso.<br>
+Ainda estou no início da minha jornada. Estou à procura do primeiro emprego como desenvolvedor Jr. Já fiz alguns projetos com pessoas maravilhosas, aonde pude colocar em prática metodologias ágeis como Scrum, resolução de problemas, escuta ativa e comunicação.<br>
 
-- 📫 Hotmail: kevillin_santos@hotmail.com / ksantos621@gmail.com
-
+- 📫 Hotmail: kevillin_santos@hotmail.com / ksantos621@gmail.com<br>
+<h1>Stacks</h1>
 <div class="logos" align="center">
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
