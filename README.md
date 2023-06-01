@@ -8,6 +8,12 @@ Ainda estou no início da minha jornada. Estou à procura do primeiro emprego co
 
 - 📫 Hotmail: kevillin_santos@hotmail.com / ksantos621@gmail.com<br>
 
+<h1>Social Media</h1>
+<div class="social-media" align="center">
+<a href="mailto:ksantos621@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/kevillinsantos/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://wa.me/5561982788831" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+</div>
 
 <h1>Stacks</h1>
 <div class="logos" align="center">
