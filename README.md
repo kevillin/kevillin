@@ -1,8 +1,11 @@
 <h1>Kevillin Santos, Estudante de Engenharia de Softwares.</h1>
 
 Analista de Sistemas formado pela Unopar, Desenvolvedor Web Fullstack pela Trybe e estudante de Engenharia de Softwares pela Estácio.
+<br/>
 Nos últimos anos, aprendi a utilizar linguagens como React.JS, CSS, HTML, Vanilla Javascript, testes com JEST e RTL. Além disso, aprendi a fazer requisições HTTP utilizando o ThunderClient e a arquitetura MSC, conexões com banco de dados relacional (mySQL), Node.JS no backend e JWT para geração de tokens ao requisitar algum protocolo HTTP com sucesso ou não.
+<br/>
 Trabalhando atualmente como estagiário de Engenharia de Software na equipe de Analytics do Banco do Brasil fazendo DDL, DML e afins (MySQL e DB2), modelagem de dados com o ERwin Data Modeler, e utilizando a ferramenta IBM DataStage para fazer o processo de ETL Ponta-a-Ponta (MySQL/DB2 ou DB2/MySQL).
+<br/>
 Softskills: Trabalho em equipe, escuta ativa, resolução de problemas, comunicação.
 
 - 📫 Hotmail: kevillin_santos@hotmail.com / Gmail: ksantos621@gmail.com<br>
