@@ -1,4 +1,4 @@
-<h1>Kevillin Santos, Desenvolvedor Web Jr.</h1>
+<h1>Kevillin Santos, Estudante de Engenharia de Softwares.</h1>
 
 Analista de Sistemas formado pela Unopar, Desenvolvedor Web Fullstack pela Trybe e estudante de Engenharia de Softwares pela Estácio.
 Nos últimos anos, aprendi a utilizar linguagens como React.JS, CSS, HTML, Vanilla Javascript, testes com JEST e RTL. Além disso, aprendi a fazer requisições HTTP utilizando o ThunderClient e a arquitetura MSC, conexões com banco de dados relacional (mySQL), Node.JS no backend e JWT para geração de tokens ao requisitar algum protocolo HTTP com sucesso ou não.
