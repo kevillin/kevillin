@@ -1,12 +1,11 @@
 <h1>Kevillin Santos, Desenvolvedor Web Jr.</h1>
 
-Sou brasiliense. Dediquei meus últimos anos a estudar a área de tecnologia e desenvolvimento web no último semestre em Tec. Análise e Desenvolvimento de Sistemas pela UNOPAR. Concuí o curso de desenvolvimento web fullstack da Trybe.
+Analista de Sistemas formado pela Unopar, Desenvolvedor Web Fullstack pela Trybe e estudante de Engenharia de Softwares pela Estácio.
+Nos últimos anos, aprendi a utilizar linguagens como React.JS, CSS, HTML, Vanilla Javascript, testes com JEST e RTL. Além disso, aprendi a fazer requisições HTTP utilizando o ThunderClient e a arquitetura MSC, conexões com banco de dados relacional (mySQL), Node.JS no backend e JWT para geração de tokens ao requisitar algum protocolo HTTP com sucesso ou não.
+Trabalhando atualmente como estagiário de Engenharia de Software na equipe de Analytics do Banco do Brasil fazendo DDL, DML e afins (MySQL e DB2), modelagem de dados com o ERwin Data Modeler, e utilizando a ferramenta IBM DataStage para fazer o processo de ETL Ponta-a-Ponta (MySQL/DB2 ou DB2/MySQL).
+Softskills: Trabalho em equipe, escuta ativa, resolução de problemas, comunicação.
 
-Nos últimos meses, aprendi a utilizar linguagens como React.JS, CSS, HTML, Vanilla Javascript, testes com JEST e RTL. Além disso, aprendi a fazer requisições HTTP utilizando o ThunderClient e a arquitetura MSC, conexões com banco de dados relacional (mySQL), Node.JS no backend e JWT para geração de tokens ao requisitar algum protocolo HTTP com sucesso.
-
-Ainda estou no início da minha jornada. Estou à procura do primeiro emprego como desenvolvedor Jr. Já fiz alguns projetos com pessoas maravilhosas, aonde pude colocar em prática metodologias ágeis como Scrum, resolução de problemas, escuta ativa e comunicação.
-
-- 📫 Hotmail: kevillin_santos@hotmail.com / ksantos621@gmail.com<br>
+- 📫 Hotmail: kevillin_santos@hotmail.com / Gmail: ksantos621@gmail.com<br>
 
 <h1>Social Media</h1>
 <div class="social-media" align="center">
